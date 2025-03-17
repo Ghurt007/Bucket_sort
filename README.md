@@ -85,3 +85,4 @@ If the command-line arguments are not in alphabetical order:
 bucketsort: Fatal error! CLAs must be entered in alphabetical order
 
 If stdin is empty:
+stdin is empty!
